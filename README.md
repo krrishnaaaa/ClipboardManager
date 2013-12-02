@@ -9,7 +9,7 @@ YouTube : http://youtu.be/pnGq0sm8Kdw
 
 GitHub : https://github.com/krrishnaaaa/ClipboardManager
 
-Linked tutorial : http://www.pcsalt.com/android/copy-to-clipboard-android/
+Linked tutorial : http://www.pcsalt.com/android/copy-to-clipboard-programmatically-android/
 
 
 Subscribe to our YouTube videos and web posts to keep yourself updated about android tutorials.
