@@ -1,0 +1,7 @@
+com.pcsalt.example.clipboardmanager.app-pngs-0 /Users/pcsalt/Documents/projects/ClipboardManager/app/build/generated/res/pngs/debug
+com.pcsalt.example.clipboardmanager.app-updated_navigation_xml-1 /Users/pcsalt/Documents/projects/ClipboardManager/app/build/generated/updated_navigation_xml/debug
+com.pcsalt.example.clipboardmanager.app-packageDebugResources-2 /Users/pcsalt/Documents/projects/ClipboardManager/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.pcsalt.example.clipboardmanager.app-packageDebugResources-3 /Users/pcsalt/Documents/projects/ClipboardManager/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.pcsalt.example.clipboardmanager.app-debug-4 /Users/pcsalt/Documents/projects/ClipboardManager/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.pcsalt.example.clipboardmanager.app-debug-5 /Users/pcsalt/Documents/projects/ClipboardManager/app/src/debug/res
+com.pcsalt.example.clipboardmanager.app-main-6 /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/res

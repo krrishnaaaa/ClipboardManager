@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+id btnCopy
+id btnPaste
+id etInput
+id tvPastedText
+layout activity_main
+mipmap ic_launcher
+string app_name
+string copy
+string hint_enter_text
+string paste
+string pasted_text
+style Theme.ClipboardManager

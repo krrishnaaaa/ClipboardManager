@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.databinding:viewbinding:9.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/6c10455191994001b24476e513ce468f/transformed/viewbinding-9.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/5efe69e0e2708aa5c9028fc1368561ee/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4631dbca1689479cc0e001a7dd5d7f0f/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7bca8f486d852535b933f36574743e28/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4b7da391cfee9722f06be21ad7a5852f/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/685f2d010962959a8790b34cc41fe8a2/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/e1199612cd4086c97f5eedad63c9c5ab/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7070ebfbdbb639787ccf93d3b67c0121/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d418d993c0c7534d9df5055a23e79672/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/3126b58325d629ae7544fe03f69ec7c7/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/e84a1c8179b8da0720f82623f0b4e13f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/5eea88009fddf8fffbdce2ad31378ab8/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/9178d15eaab36b543238a6824e3316f7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d084515f12077b5fc5a531745c21740c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/c404e5098f8e853ae09a6fa4cd0af21f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/76f6bcfca145235ba36e2e640502bb7c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/717e058e680c13f3b3e47ecae5b93743/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/81128ed0e8bb93df79c8ffb3d459e198/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/3d527ba812988db6cb49f565b38a2bc4/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/451f881ae66413473d1f9290572ff058/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/71a100a225e487a626cc3b0e109e5fdd/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d1ad972a12fe9706e09ce1849fa38154/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8ce57cda2b2fb8992ec9fb9e2bbc916b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/ef9d5c6e50d37a398052cc66698222b7/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/3227712735f0dcb674618bc5977b3c9c/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/e13573889148566645b828195050097d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/005ec48d19cf4371bb52b80ea81ae81b/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/749074b44e60ae881441f47da5b705c1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d9466e8aa124a97743b7b7aad14a06e5/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/fe06adf93bad667a482623d4546fe7ff/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/df9989c69c32a1898f99615a608809c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/489cde83459c30803c83a5061432d112/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4be3f3416ddd838dc6ec1b7c37d9b4ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/0e74c010c8a2a1431ae31feaed9656d0/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/1d70e5b7e0df11d95ee922c5e5627d25/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/f4ea8c941bf363c4636463c9a40f1469/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/08d5aeecf1414807803b8d68f30f125e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8526483d380cf94636689e4c6aa5315e/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7177e56ad9d710634c39f5f7eebf11a3/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:3:5-17:19
+INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:3:5-17:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/5efe69e0e2708aa5c9028fc1368561ee/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/5efe69e0e2708aa5c9028fc1368561ee/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7bca8f486d852535b933f36574743e28/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7bca8f486d852535b933f36574743e28/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/df9989c69c32a1898f99615a608809c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/df9989c69c32a1898f99615a608809c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4be3f3416ddd838dc6ec1b7c37d9b4ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4be3f3416ddd838dc6ec1b7c37d9b4ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:6:9-41
+	android:icon
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:5:9-43
+	android:allowBackup
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:4:9-35
+	android:theme
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:8:9-54
+activity#com.pcsalt.example.clipboardmanager.MainActivity
+ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:9:9-16:20
+	android:exported
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:9.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/6c10455191994001b24476e513ce468f/transformed/viewbinding-9.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:9.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/6c10455191994001b24476e513ce468f/transformed/viewbinding-9.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/5efe69e0e2708aa5c9028fc1368561ee/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/5efe69e0e2708aa5c9028fc1368561ee/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4631dbca1689479cc0e001a7dd5d7f0f/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4631dbca1689479cc0e001a7dd5d7f0f/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7bca8f486d852535b933f36574743e28/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7bca8f486d852535b933f36574743e28/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4b7da391cfee9722f06be21ad7a5852f/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4b7da391cfee9722f06be21ad7a5852f/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/685f2d010962959a8790b34cc41fe8a2/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/685f2d010962959a8790b34cc41fe8a2/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/e1199612cd4086c97f5eedad63c9c5ab/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/e1199612cd4086c97f5eedad63c9c5ab/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7070ebfbdbb639787ccf93d3b67c0121/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7070ebfbdbb639787ccf93d3b67c0121/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d418d993c0c7534d9df5055a23e79672/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d418d993c0c7534d9df5055a23e79672/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/3126b58325d629ae7544fe03f69ec7c7/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/3126b58325d629ae7544fe03f69ec7c7/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/e84a1c8179b8da0720f82623f0b4e13f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/e84a1c8179b8da0720f82623f0b4e13f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/5eea88009fddf8fffbdce2ad31378ab8/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/5eea88009fddf8fffbdce2ad31378ab8/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/9178d15eaab36b543238a6824e3316f7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/9178d15eaab36b543238a6824e3316f7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d084515f12077b5fc5a531745c21740c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d084515f12077b5fc5a531745c21740c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/c404e5098f8e853ae09a6fa4cd0af21f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/c404e5098f8e853ae09a6fa4cd0af21f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/76f6bcfca145235ba36e2e640502bb7c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/76f6bcfca145235ba36e2e640502bb7c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/717e058e680c13f3b3e47ecae5b93743/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/717e058e680c13f3b3e47ecae5b93743/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/81128ed0e8bb93df79c8ffb3d459e198/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/81128ed0e8bb93df79c8ffb3d459e198/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/3d527ba812988db6cb49f565b38a2bc4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/3d527ba812988db6cb49f565b38a2bc4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/451f881ae66413473d1f9290572ff058/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/451f881ae66413473d1f9290572ff058/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/71a100a225e487a626cc3b0e109e5fdd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/71a100a225e487a626cc3b0e109e5fdd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d1ad972a12fe9706e09ce1849fa38154/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d1ad972a12fe9706e09ce1849fa38154/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8ce57cda2b2fb8992ec9fb9e2bbc916b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8ce57cda2b2fb8992ec9fb9e2bbc916b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/ef9d5c6e50d37a398052cc66698222b7/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/ef9d5c6e50d37a398052cc66698222b7/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/3227712735f0dcb674618bc5977b3c9c/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/3227712735f0dcb674618bc5977b3c9c/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/e13573889148566645b828195050097d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/e13573889148566645b828195050097d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/005ec48d19cf4371bb52b80ea81ae81b/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/005ec48d19cf4371bb52b80ea81ae81b/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/749074b44e60ae881441f47da5b705c1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/749074b44e60ae881441f47da5b705c1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d9466e8aa124a97743b7b7aad14a06e5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/d9466e8aa124a97743b7b7aad14a06e5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/fe06adf93bad667a482623d4546fe7ff/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/fe06adf93bad667a482623d4546fe7ff/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/df9989c69c32a1898f99615a608809c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/df9989c69c32a1898f99615a608809c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/489cde83459c30803c83a5061432d112/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/489cde83459c30803c83a5061432d112/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4be3f3416ddd838dc6ec1b7c37d9b4ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/4be3f3416ddd838dc6ec1b7c37d9b4ed/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/0e74c010c8a2a1431ae31feaed9656d0/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/0e74c010c8a2a1431ae31feaed9656d0/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/1d70e5b7e0df11d95ee922c5e5627d25/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/1d70e5b7e0df11d95ee922c5e5627d25/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/f4ea8c941bf363c4636463c9a40f1469/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/f4ea8c941bf363c4636463c9a40f1469/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/08d5aeecf1414807803b8d68f30f125e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/08d5aeecf1414807803b8d68f30f125e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8526483d380cf94636689e4c6aa5315e/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8526483d380cf94636689e4c6aa5315e/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7177e56ad9d710634c39f5f7eebf11a3/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7177e56ad9d710634c39f5f7eebf11a3/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pcsalt/Documents/projects/ClipboardManager/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/df9989c69c32a1898f99615a608809c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/df9989c69c32a1898f99615a608809c9/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/8c32cc5e2577b1ec6f86384d75287229/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.pcsalt.example.clipboardmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.pcsalt.example.clipboardmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/pcsalt/.gradle/caches/9.3.1/transforms/89cab81eacb6f3cd1b54b42befd15880/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pcsalt/.gradle/caches/9.3.1/transforms/7ab32b8d6b1e793fed7dbe5c095d530c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/pcsalt/.gradle/caches/9.3.1/transforms/628fec310c55bb1ee959112f552eb02b/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clipboard Manager</string>
+    <string name="hint_enter_text">Enter text to copy</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="pasted_text">Pasted text</string>
+</resources>

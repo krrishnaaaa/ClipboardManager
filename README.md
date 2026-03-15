@@ -1,16 +1,15 @@
-ClipboardManager
-================
+# Clipboard Manager
 
-In this demo application you can learn to add contents to Clipboard.
+Demo Android app for copy and paste operations using ClipboardManager.
 
-Download source
+- Enter text and tap Copy to save to clipboard
+- Tap Paste to retrieve from clipboard
 
-YouTube : http://youtu.be/pnGq0sm8Kdw
+Built with Kotlin. Companion project for [Copy to Clipboard Programmatically](https://pcsalt.com/android/copy-to-clipboard-programmatically-android/).
 
-GitHub : https://github.com/krrishnaaaa/ClipboardManager
+## Tech Stack
 
-Linked tutorial : http://www.pcsalt.com/android/copy-to-clipboard-programmatically-android/
-
-
-Subscribe to our YouTube videos and web posts to keep yourself updated about android tutorials.
-Visit http://www.pcsalt.com/ for more tutorials.
+- Kotlin
+- View Binding
+- Material 3
+- Min SDK 34 / Target SDK 36
